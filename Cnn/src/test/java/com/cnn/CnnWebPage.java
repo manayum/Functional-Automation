@@ -12,5 +12,6 @@ public class CnnWebPage extends Base
     public void CnnHomePage()
     {
         System.out.println(driver.getCurrentUrl());
+        System.out.println("this is nayem");
     }
 }
